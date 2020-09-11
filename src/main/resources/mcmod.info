@@ -1,0 +1,14 @@
+[{
+  "modid": "nnn",
+  "name": "No Nether Needed - Resurrected",
+  "description": "You dont need to go to nether !",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://curseforge.com/minecraft/mc-mods/no-nether-needed-resurrected",
+  "updateUrl": "",
+  "authorList": ["SnowShock35"],
+  "credits": "KakesRevenge for the original mod/concept.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
