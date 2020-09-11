@@ -7,7 +7,7 @@ Removes the need to visit the nether.
 [![Minecraft CurseForge Downloads (Total)](http://cf.way2muchnoise.eu/full_407458_downloads.svg?badge_style=for_the_badge)](https://curseforge.com/minecraft/mc-mods/no-nether-needed-resurrected)
 [![Minecraft CurseForge Minecraft Versions](http://cf.way2muchnoise.eu/versions/407458.svg?badge_style=for_the_badge)](https://curseforge.com/minecraft/mc-mods/no-nether-needed-resurrected)
 
-[![LICENSE](https://img.shields.io/github/license/snowshock35/jei-integration?style=for-the-badge)](https://github.com/snowshock35/no-nether-needed-resurrected/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/snowshock35/no-nether-needed?style=for-the-badge)](https://github.com/snowshock35/no-nether-needed/blob/master/LICENSE)
 [![Discord](https://img.shields.io/discord/284709326189494282?color=7289da&label=Discord&style=for-the-badge)](https://discord.gg/r6xEGbz)
 
 ## Description
@@ -16,7 +16,7 @@ Removes the need to visit the nether.
 
 No Nether Needed - Resurrected, is a resurrection of a 1.7.10 mod that removed the need to visit the nether by making nether items obtainable through crafting.
 
-The mod has been updated to the latest version of Forge for 1.7.10 with small refactors to improve code readability, but otherwise remains true to the original mod and is 100% compatible with existing worlds.
+The mod has been updated to the latest version of Forge for 1.7.10 with small refactoring to improve code readability, but otherwise remains true to the original mod and is 100% compatible with existing worlds.
 
 ## FAQ
 
