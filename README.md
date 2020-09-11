@@ -1,4 +1,4 @@
-[![No Nether Needed - Resurrected Logo](https://cdn.snowshock35.com/mods/nnn-resurrected/logo.png)](https://curseforge.com/minecraft/mc-mods/no-nether-needed-resurrected)
+[![No Nether Needed - Resurrected Logo](https://cdn.snowshock35.com/mods/nnn-resurrected/logo_1024.png)](https://curseforge.com/minecraft/mc-mods/no-nether-needed-resurrected)
 
 # No Nether Needed - Resurrected - Minecraft Mod
 
